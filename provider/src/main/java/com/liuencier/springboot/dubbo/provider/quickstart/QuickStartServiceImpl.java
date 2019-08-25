@@ -1,7 +1,7 @@
 package com.liuencier.springboot.dubbo.provider.quickstart;
 
 import com.alibaba.dubbo.config.annotation.Service;
-import com.liuencier.springboot.dubbo.provider.ServiceAPI;
+import com.liuencier.springboot.dubbo.ServiceAPI;
 import org.springframework.stereotype.Component;
 
 @Component
